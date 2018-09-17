@@ -1,0 +1,4 @@
+#Mon Sep 17 11:40:37 IST 2018
+base.0=D\:\\@DilipWorkspace\\Sample\\CardView\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
